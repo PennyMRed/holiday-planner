@@ -1,0 +1,5 @@
+- ✅make array of holiday planning items
+- ✅programmatically add array items to an ul
+- ✅display on screen
+- ✅add input to be able to add more items to the todo list
+- ✅add submit button
